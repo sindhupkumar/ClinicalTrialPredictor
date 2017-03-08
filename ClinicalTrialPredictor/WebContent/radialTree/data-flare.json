@@ -1,0 +1,155 @@
+{
+ "name": "L3Output",
+ "children": [
+  {
+   "name": "L2_Node1",
+   "children": [
+    {"name": "L1_Node1", "size": 1759},
+    {"name": "L1_Node2", "size": 2165},
+    {"name": "L1_Node3", "size": 586},
+    {"name": "L1_Node4", "size": 3331},
+    {"name": "L1_Node5", "size": 772},
+    {"name": "L1_Node6", "size": 3322},
+    {"name": "L1_Node7", "size": 772},
+    {"name": "L1_Node8", "size": 772},
+    {"name": "L1_Node9", "size": 772},
+    {"name": "L1_Node10", "size": 772}
+   ]
+  },
+  {
+   "name": "L2_Node2",
+   "children": [
+    {"name": "L1_Node1", "size": 17010},
+    {"name": "L1_Node2", "size": 5842},
+    {"name": "L1_Node3"},
+    {"name": "L1_Node4", "size": 1041},
+    {"name": "L1_Node5", "size": 5176},
+    {"name": "L1_Node6", "size": 449},
+    {"name": "L1_Node7", "size": 5593},
+    {"name": "L1_Node8", "size": 5534},
+    {"name": "L1_Node9", "size": 9201},
+    {"name": "L1_Node10", "size": 19975}
+   ]
+  },
+  {
+   "name": "L2_Node3",
+   "children": [
+    {"name": "L1_Node1", "size": 1759},
+    {"name": "L1_Node2", "size": 2165},
+    {"name": "L1_Node3", "size": 586},
+    {"name": "L1_Node4", "size": 3331},
+    {"name": "L1_Node5", "size": 772},
+    {"name": "L1_Node6", "size": 3322},
+    {"name": "L1_Node7", "size": 772},
+    {"name": "L1_Node8", "size": 772},
+    {"name": "L1_Node9", "size": 772},
+    {"name": "L1_Node10", "size": 772}
+   ]
+  },
+  {
+   "name": "L2_Node4",
+   "children": [
+    {"name": "L1_Node1", "size": 1759},
+    {"name": "L1_Node2", "size": 2165},
+    {"name": "L1_Node3", "size": 586},
+    {"name": "L1_Node4", "size": 3331},
+    {"name": "L1_Node5", "size": 772},
+    {"name": "L1_Node6", "size": 3322},
+    {"name": "L1_Node7", "size": 772},
+    {"name": "L1_Node8", "size": 772},
+    {"name": "L1_Node9", "size": 772},
+    {"name": "L1_Node10", "size": 772}
+   ]
+  },
+  {
+   "name": "L2_Node5",
+   "children": [
+    {"name": "L1_Node1", "size": 1759},
+    {"name": "L1_Node2", "size": 2165},
+    {"name": "L1_Node3", "size": 586},
+    {"name": "L1_Node4", "size": 3331},
+    {"name": "L1_Node5", "size": 772},
+    {"name": "L1_Node6", "size": 3322},
+    {"name": "L1_Node7", "size": 772},
+    {"name": "L1_Node8", "size": 772},
+    {"name": "L1_Node9", "size": 772},
+    {"name": "L1_Node10", "size": 772}
+   ]
+  },
+  {
+   "name": "L2_Node6",
+   "children": [
+    {"name": "L1_Node1", "size": 1759},
+    {"name": "L1_Node2", "size": 2165},
+    {"name": "L1_Node3", "size": 586},
+    {"name": "L1_Node4", "size": 3331},
+    {"name": "L1_Node5", "size": 772},
+    {"name": "L1_Node6", "size": 3322},
+    {"name": "L1_Node7", "size": 772},
+    {"name": "L1_Node8", "size": 772},
+    {"name": "L1_Node9", "size": 772},
+    {"name": "L1_Node10", "size": 772}
+   ]
+  },
+  {
+   "name": "L2_Node7",
+   "children": [
+    {"name": "L1_Node1", "size": 1759},
+    {"name": "L1_Node2", "size": 2165},
+    {"name": "L1_Node3", "size": 586},
+    {"name": "L1_Node4", "size": 3331},
+    {"name": "L1_Node5", "size": 772},
+    {"name": "L1_Node6", "size": 3322},
+    {"name": "L1_Node7", "size": 772},
+    {"name": "L1_Node8", "size": 772},
+    {"name": "L1_Node9", "size": 772},
+    {"name": "L1_Node10", "size": 772}
+   ]
+  },
+  {
+   "name": "L2_Node8",
+   "children": [
+    {"name": "L1_Node1", "size": 1759},
+    {"name": "L1_Node2", "size": 2165},
+    {"name": "L1_Node3", "size": 586},
+    {"name": "L1_Node4", "size": 3331},
+    {"name": "L1_Node5", "size": 772},
+    {"name": "L1_Node6", "size": 3322},
+    {"name": "L1_Node7", "size": 772},
+    {"name": "L1_Node8", "size": 772},
+    {"name": "L1_Node9", "size": 772},
+    {"name": "L1_Node10", "size": 772}
+   ]
+  },
+  {
+   "name": "L2_Node9",
+   "children": [
+    {"name": "L1_Node1", "size": 1759},
+    {"name": "L1_Node2", "size": 2165},
+    {"name": "L1_Node3", "size": 586},
+    {"name": "L1_Node4", "size": 3331},
+    {"name": "L1_Node5", "size": 772},
+    {"name": "L1_Node6", "size": 3322},
+    {"name": "L1_Node7", "size": 772},
+    {"name": "L1_Node8", "size": 772},
+    {"name": "L1_Node9", "size": 772},
+    {"name": "L1_Node10", "size": 772}
+   ]
+  },
+  {
+   "name": "L2_Node10",
+   "children": [
+    {"name": "L1_Node1", "size": 1759},
+    {"name": "L1_Node2", "size": 2165},
+    {"name": "L1_Node3", "size": 586},
+    {"name": "L1_Node4", "size": 3331},
+    {"name": "L1_Node5", "size": 772},
+    {"name": "L1_Node6", "size": 3322},
+    {"name": "L1_Node7", "size": 772},
+    {"name": "L1_Node8", "size": 772},
+    {"name": "L1_Node9", "size": 772},
+    {"name": "L1_Node10", "size": 772}
+   ]
+  }
+ ]
+}
